@@ -1,0 +1,12 @@
+{
+  "device": {
+    "host": "ats-radio.local",
+    "control_port": 60000,
+    "audio_port": 60001
+  },
+  "timezone": "Asia/Tokyo",
+  "recording_dir": "/var/lib/radiod/recordings",
+  "schedule_path": "/var/lib/radiod/schedules.json",
+  "socket_path": "/run/radiod/radiod.sock",
+  "ffmpeg_path": "ffmpeg"
+}

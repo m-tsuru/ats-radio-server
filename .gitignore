@@ -1,0 +1,6 @@
+firmware/config.h
+bin/
+dist/
+*.flac
+*.wav
+*.bin

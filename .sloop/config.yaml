@@ -1,0 +1,8 @@
+project:
+    id: ats-2b127611-b8f1-435d-a6b0-c72760dbc78b
+    slug: ats
+    spec-prefix: ats
+repository:
+    path: .
+git:
+    notes-ref: refs/notes/sloop
